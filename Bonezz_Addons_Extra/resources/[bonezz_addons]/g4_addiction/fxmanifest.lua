@@ -1,0 +1,1 @@
+fx_version 'cerulean'\ngame 'gta5'\nlua54 'yes'\nauthor 'mizterbonezzmusic'\ndescription 'G4 Addiction (loader)'\nclient_scripts {'client.lua'}\nserver_scripts {'@oxmysql/lib/MySQL.lua','server.lua'}\ndependencies { 'qb-core', 'oxmysql' }\n

@@ -1,0 +1,1 @@
+fx_version 'cerulean'\ngame 'gta5'\nlua54 'yes'\nauthor 'mizterbonezzmusic'\ndescription 'Undercover toggle'\nclient_scripts {'client.lua'}\nserver_scripts {'server.lua'}\ndependencies { 'qb-core' }\n

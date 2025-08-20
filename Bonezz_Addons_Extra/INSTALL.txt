@@ -1,0 +1,1 @@
+Install EXTRA:\n1) Upload 'resources' to server root.\n2) In server.cfg ensure: g4_addiction, bonezz_cuff, bonezz_undercover.\n3) Restart server.\n
